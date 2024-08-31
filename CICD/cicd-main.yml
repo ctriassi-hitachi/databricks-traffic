@@ -2,7 +2,7 @@ trigger:
   - main
 
 variables:
-  - group: dev-cicd-grp
+  - group: dev-ci-cd-demo-rg
   - name: notebookPath
     value: "notebooks"  
 
